@@ -74,7 +74,7 @@
     border-radius: 1rem;
     overflow: hidden;
     box-shadow: 0.5rem 0.5rem var(--clr-neutral-900);
-    padding: 1.25rem;
+    padding: 1.4rem;
     max-width: 384px;
     min-width: 250px;
   }
@@ -143,5 +143,5 @@
   .author__name {
     font-size: 0.9rem;
     font-weight: var(--fw-bold);
-    margin-left: 0.55rem;
+    margin-left: 0.65rem;
   }
