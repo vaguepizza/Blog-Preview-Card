@@ -74,7 +74,7 @@
     border-radius: 1rem;
     overflow: hidden;
     box-shadow: 0.5rem 0.5rem var(--clr-neutral-900);
-    padding: 1.4rem;
+    padding: 1.5rem;
     max-width: 384px;
     min-width: 250px;
   }

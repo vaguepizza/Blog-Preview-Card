@@ -18,7 +18,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./assets/images/Project-Screenshot.png)
+![Site Screenshot](./assets/images/Project-Screenshot.png)
+![Hover State](./assets/images/Project-Screenshot-Hover-State.png)
 
 ### Links
 
